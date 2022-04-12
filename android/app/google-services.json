@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650018542633",
+    "firebase_url": "https://labtour-8bb44-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "labtour-8bb44",
+    "storage_bucket": "labtour-8bb44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650018542633:android:dd776bc7b2281c18217838",
+        "android_client_info": {
+          "package_name": "com.rpl.labtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650018542633-l6h58n4m34p390uoti0cgd46lmggjk2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB0qBe_vDw4nSH2ALlD5jinygE2GLfI1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650018542633-l6h58n4m34p390uoti0cgd46lmggjk2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
