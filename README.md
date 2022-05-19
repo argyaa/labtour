@@ -1,16 +1,19 @@
 # labtour
 
-A new Flutter project.
+Labtour adalah sebuah plikasi Rekomendasi Destinasi Wisata di Indonesia berdasarkan tingkat resiko penularan covid-19
 
-## Getting Started
+<p float="left">
+  <img src="image1.jpeg" width="250" />
+  <img src="image2.jpeg" width="250" />
+  <img src="image3.jpeg" width="250" />
+  <img src="image4.jpeg" width="250" />
+   <img src="image5.jpeg" width="250" />
+</p>
 
-This project is a starting point for a Flutter application.
+## Fitur
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Rekomendasi Destinasi Wisata
+- Pilihan wisata dari berbagai kota
+- pencarian wisata di Indonesia
+- simpan destinasi kedalam favorit
+- beri komentar/review wisata
