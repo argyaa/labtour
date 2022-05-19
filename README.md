@@ -1,6 +1,6 @@
 # labtour
 
-Labtour adalah sebuah plikasi Rekomendasi Destinasi Wisata di Indonesia berdasarkan tingkat resiko penularan covid-19
+Labtour adalah sebuah aplikasi Rekomendasi Destinasi Wisata di Indonesia berdasarkan tingkat resiko penularan covid-19
 
 <p float="left">
   <img src="image1.jpeg" width="250" />
