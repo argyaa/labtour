@@ -2,6 +2,12 @@
 
 Labtour adalah sebuah aplikasi Rekomendasi Destinasi Wisata di Indonesia berdasarkan tingkat resiko penularan covid-19
 
+Teknologi yang digunakan untuk membangun aplikasi ini antara lain:
+- Flutter
+- Laravel
+- Firebase
+- SQLITE
+
 <p float="left">
   <img src="image1.jpeg" width="250" />
   <img src="image2.jpeg" width="250" />
